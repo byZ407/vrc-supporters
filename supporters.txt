@@ -18,4 +18,4 @@
 # 3  2026-12-13  SomeName      | album=https://music.163.com/album?id=34839708
 
 4  2026-12-13  S O L A C E-
-1  2026-12-13  Cierzo
+4  2026-12-13  Cierzo
